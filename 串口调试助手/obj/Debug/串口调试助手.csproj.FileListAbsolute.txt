@@ -1,0 +1,219 @@
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe.config
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\bin\Debug\串口调试助手.pdb
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+D:\AI   VS 2010\源程序\串口调试助手\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+E:\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe.config
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+E:\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe
+E:\串口调试助手\串口调试助手\bin\Debug\串口调试助手.pdb
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+E:\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\串口调试助手\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\Jun\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\Jun\Desktop\串口调试助手\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.DrawForm.resources
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.DrawForm.resources
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\陈俊杰\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+D:\AI   VS 2010\源程序\串口调试助手1\串口调试助手\bin\Debug\串口调试助手.exe.config
+D:\AI   VS 2010\源程序\串口调试助手1\串口调试助手\obj\Debug\Interop.ADOX.dll
+D:\AI   VS 2010\源程序\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+D:\AI   VS 2010\源程序\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.exe
+D:\AI   VS 2010\源程序\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\Jun\Desktop\串口调试助手1\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.DrawForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\Jun\Desktop\实验10\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.DrawForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+C:\Users\陈俊杰\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+C:\Users\Jun\Desktop\实验10\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+C:\Users\陈俊杰\Desktop\虚拟机\实验10\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\虚拟机\实验10\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\陈俊杰\Desktop\虚拟机\实验10\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\陈俊杰\Desktop\虚拟机\实验10\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\虚拟机\实验10\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\虚拟机\实验10 - 副本\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\陈俊杰\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\陈俊杰\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\虚拟机\实验10 - 副本\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.pdb
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\Administrator\Desktop\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+F:\C#上机\虚拟机\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe.config
+F:\C#上机\虚拟机\C#期末答辩\串口调试助手\obj\Debug\Interop.ADOX.dll
+F:\C#上机\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+F:\C#上机\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.exe
+F:\C#上机\虚拟机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.pdb
+F:\C#上机\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe.config
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\Interop.ADOX.dll
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.exe
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.pdb
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.View.HelpForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+F:\C#上机\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe.config
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\Interop.ADOX.dll
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.ResolveComReference.cache
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.pdb
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csprojResolveAssemblyReference.cache
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.PictureForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.searchDataBaseForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.DeleteUserForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ReadForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.ChangePWDForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.RegisterForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.AboutForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.CRCForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.LoginForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.MainForm.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.Properties.Resources.resources
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\obj\Debug\串口调试助手.csproj.GenerateResource.Cache
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.exe
+C:\Users\陈俊杰\Desktop\C#期末答辩\串口调试助手\bin\Debug\串口调试助手.pdb
